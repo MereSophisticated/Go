@@ -1,4 +1,4 @@
-package com.rri.minesweeper.debug;
+package com.mygdx.game.debug;
 
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;

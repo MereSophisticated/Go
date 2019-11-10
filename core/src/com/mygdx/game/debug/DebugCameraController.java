@@ -1,4 +1,4 @@
-package com.rri.minesweeper.debug;
+package com.mygdx.game.debug;
 
 import com.badlogic.gdx.Application;
 import com.badlogic.gdx.Gdx;
