@@ -112,4 +112,27 @@ Prazno stičišče je del teritorija igralca, če so vsi kamni, ki so mu sosednj
 #### Točke
 Vsak igralec dobi točke na koncu igre kot seštevek lastnega teritorija in števila zapornikov, ki jih je ujel nasprotniku.
 
+## Logika in stanje igre
+Opis igre z EnumSet razredom.
 
+```public enum GameState{
+      BEGIN,
+      RUNNING,
+      END
+}
+```
+```public enum CurrentPlayer{
+      BLACK,
+      WHITE
+ } 
+ 
+CurrentPlayer currentPlayer;
+ ```
+```public enum Cellstate{
+      EMPTY,
+      BLACK,
+      WHITE
+}
+
+EnumSet<CellState>[][] boardstate`
+```
