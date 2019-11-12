@@ -115,20 +115,26 @@ Vsak igralec dobi točke na koncu igre kot seštevek lastnega teritorija in šte
 ## Logika in stanje igre
 Opis igre z EnumSet razredom.
 
-```public enum GameState{
+Stanje igre:
+```
+public enum GameState{
       BEGIN,
       RUNNING,
       END
 }
 ```
-```public enum CurrentPlayer{
+Trenutni igralec:
+```
+public enum CurrentPlayer{
       BLACK,
       WHITE
  } 
  
 CurrentPlayer currentPlayer;
  ```
-```public enum Cellstate{
+Stanje stičišč igralne plošče:
+```
+public enum Cellstate{
       EMPTY,
       BLACK,
       WHITE
