@@ -5,7 +5,7 @@
 Na koncu igre oba igralca dobita po eno točko za vsako prosto točko znotraj svojega teritorija in točko za vsak zajet kamen.
 Igralec z večjim skupnim številom teritorija in ujetnikov je zmagovalec.
 
-V zgornjem primeru ima črni igralec 15 točk za teritorij ter eno dodatno točko, teritorij črnega igralca vključuje točko **a** kjer je bil prej beli kamen. Skupno s tem zapornikom, ima črni igralec 16 točk
+V primeru ima črni igralec 15 točk za teritorij ter eno dodatno točko, teritorij črnega igralca vključuje točko **a** kjer je bil prej beli kamen. Skupno s tem zapornikom, ima črni igralec 16 točk
 
 Teritorij belega igralca je vreden 17 točk, zato je beli zmagovalec.
 ## Mehanika igre
